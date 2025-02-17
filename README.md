@@ -29,7 +29,7 @@ https://www.figma.com/design/EzG9dafOhSZL4ubN8iQ8Ko/FoodBuddy?node-id=0-1&p=f&t=
 2. Технические требования:
 
 • Платформа: Мобильное приложение для Android и iOS.
-• Язык программирования: Kotlin/Swift (зависит от платформы).
+• Язык программирования: Kotlin/Java (зависит от платформы).
 • База данных: Firebase, MySQL или подобные.
 • Сервер: Node.js, Python или подобные.
 • API: Rest API для взаимодействия между приложением и сервером.
